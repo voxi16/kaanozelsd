@@ -1,0 +1,64 @@
+{
+  "sunucu": "797777604542201885",
+  "prefix": "+",
+  "qwe": "",
+  "sahipler": ["669917537571700764","585497108304625667"],
+  "link": "https://discord.gg/v5FNy2BHDX",
+  "sayilar": [
+    "<a:guardians0:779370388332347414>",
+    "<a:guardians1:779370388886650930>",
+    "<a:guardians2:779370390317301790>",
+    "<a:guardians3:779370391491575808>",
+    "<a:guardians4:779370393328156722>",
+    "<a:guardians5:779370393814958130>",
+    "<a:guardians6:779370394263617586>",
+    "<a:guardians7:779370394079330325>",
+    "<a:guardians8:779370394372145183>",
+    "<a:guardians9:779370394699694121>"
+  ],
+  "roles": {
+    "unregister": "805854126293909544",
+    "erkek": ["805841780427849748"],
+    "kız": ["805841780427849748"],
+    "botc": "801408722484068353",
+    "yasaklıTagRol": "807235072096206868",
+    "fakeRol": "",
+    "lovers": "",
+    "alone": "",
+    "lgbt": "",
+    "sevgiliyapmıyorum": "",
+    "streamer": "",
+    "ressam": "",
+    "şair": "",
+    "jail": "",
+    "muted": "",
+    "muteH": "",
+    "jailH": "",
+    "banH": "",
+    "vmuteH": "",
+    "transport": "",
+    "tagRol": "",
+    "booster": "",
+    "yetkiliRoller": ["805841853610065942"]
+  },
+
+  "tag": {
+    "taglıTag": "そ",
+    "tagsızTag": "•",
+    "yasakliTaglar": []
+  },
+
+  "chats": {
+    "gchat": "805846481906040872",
+    "kayıtChat": "806914038583656509",
+    "banLog": "",
+    "jailLog": "",
+    "muteLog": "",
+    "uyariLog": ""
+  },
+
+  "snc": {
+    "sncIsim": "そ İsim | Yaş",
+    "tagRolIsim": "Ekibimiz"
+  }
+}
